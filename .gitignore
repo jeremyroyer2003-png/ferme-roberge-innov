@@ -1,0 +1,4 @@
+.git-credentials
+*.token
+.scratch/
+.DS_Store
