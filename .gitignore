@@ -1,4 +1,11 @@
+# Identifiants et copies de jetons : ne jamais versionner
 .git-credentials
 *.token
+.env
+
+# Fichiers de travail
 .scratch/
+__pycache__/
+*.pyc
 .DS_Store
+Thumbs.db
