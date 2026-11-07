@@ -1,0 +1,58 @@
+{
+  "name": "Ferme Roberge-Innov",
+  "facebook_page_name": "Ferme Roberge-Innov",
+  "category": "Agriculture",
+  "followers": "1,9 K followers",
+  "following": "12 suivi(e)s",
+  "price_range_raw": "€€",
+  "about": "Je suis un jeune producteur de courges, citrouilles, patates douces, melons d’eau, tournesols, maïs sucré et maïs-grain ancestral pour la farine et le popcorn. Je complète le tout par des poulets de grain et des oeufs.",
+  "about_more": [
+    "Devise : « Innover, une récolte à la fois ». La ferme affiche « Depuis 1976 » sur son logo ; la page Facebook a été créée en 2024.",
+    "Le producteur cultive aussi d’anciennes variétés de maïs depuis plus de 6 ans pour le popcorn et les grignotines, ainsi que 57 variétés de courges et citrouilles.",
+    "Les produits à la pivoine sont faits avec les fleurs de La Pivoinerie de Diane (112, rang Saint-Pierre, Saint-Isidore), l’entreprise de sa conjointe.",
+    "Activités d’automne : étable hantée, chasse aux mini citrouilles dans le maïs géant, égrenage de maïs popcorn, autocueillette de courges, citrouilles et tournesols."
+  ],
+  "address": {
+    "street": "177, Rang de la Grande-Ligne",
+    "city": "Saint-Isidore",
+    "postal_code": "G0S 2S0",
+    "region": "QC",
+    "country": "CA",
+    "source": "Rue et code postal : À propos > Détails. Ville : publications (« 177, Grande-Ligne, Saint-Isidore »). Province déduite du code postal (G = Québec)."
+  },
+  "lat": null,
+  "lng": null,
+  "hours": [
+    {
+      "days": "Kiosque libre-service",
+      "hours": "Tous les jours, 24 h sur 24, à l’année"
+    },
+    {
+      "days": "Activités d’automne (sept. à oct.)",
+      "hours": "Samedi et dimanche, 9 h à 17 h ; en semaine sur demande"
+    },
+    {
+      "days": "Autocueillette de tournesols (fin juil. à oct.)",
+      "hours": "Tous les jours, 9 h à 17 h"
+    }
+  ],
+  "hours_note": "Horaires tirés des publications de la ferme (la section À propos n’en indique aucun). Il est toujours apprécié d’aviser avant de passer.",
+  "opening_hours_schema": "Mo-Su 00:00-23:59",
+  "phone": "(418) 802-6357",
+  "phone_type": "Mobile",
+  "email": "robergejordan@hotmail.com",
+  "website": null,
+  "messenger_url": "https://m.me/61561810061615",
+  "socials": {
+    "facebook": "https://www.facebook.com/profile.php?id=61561810061615"
+  },
+  "payment_delivery_notes": [
+    "Kiosque libre-service ouvert 24/7 et à l’année au 177, Grande-Ligne, Saint-Isidore.",
+    "Paiement : argent comptant, virement Interac, débit et crédit (débit/crédit seulement lorsque quelqu’un est sur place).",
+    "Commandes et réservations (poulets, paniers-cadeaux, bouquets, ensembles d’Halloween) par Messenger ou au 418 802-6357 (appel ou texto).",
+    "Aucune livraison mentionnée sur la page. Présence ponctuelle dans les marchés de Noël et à l’expo agricole de Saint-Isidore."
+  ],
+  "reviews": null,
+  "source_url": "https://www.facebook.com/profile.php?id=61561810061615",
+  "extracted_at": "2026-11-06"
+}
